@@ -1,0 +1,15 @@
+ile_tur 10000
+spis_instr lpijw
+ile_rośnie_jedzenie 7
+pocz_ile_robów 300
+pocz_progr wpijlijwij
+pocz_energia 300
+ile_daje_jedzenie 20
+koszt_tury 15
+pr_powielenia 0.5
+ułamek_energii_rodzica 0.6
+limit_powielania 400
+pr_usunięcia_instr 0.8
+pr_dodania_instr 0.8
+pr_zmiany_instr 0.99
+co_ile_wypisz 10000
